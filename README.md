@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
 <h3 align="center">Brazilian developer and enthusiast</h3>
 
-- 🔭 I’m currently working on **H&CO as an IT Systems & Automation Intern**
+- 🔭 I’m currently working at **H&CO as an IT Systems & Automation Intern**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
